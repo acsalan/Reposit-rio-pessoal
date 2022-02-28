@@ -1,5 +1,5 @@
 # Repositório-pessoal
-Meu primeiro repositório
+Meu primeiro repositório criado para o desafio de projeto da Dio
 
 Formação:Médio técnico completo em administração de empresa
 Inicío:1994
@@ -8,7 +8,7 @@ Linked:https://linked.com/in/Antonia-Alves
 Github:https://github.com/acsalan 
 
   Requisitos
-  Noções de intodução a programação
+  Noções de introdução a programação
   Noções de estrutura de dados e algoritmo
   Noções de lógica da programação
   Noções de git/github
