@@ -9,7 +9,7 @@ Github:https://github.com/acsalan
 
   Requisitos
   Noções de intodução a programação
-  Noçoes de estrutura de dados e algoritmo
+  Noções de estrutura de dados e algoritmo
   Noções de lógica da programação
   Noções de git/github
   
