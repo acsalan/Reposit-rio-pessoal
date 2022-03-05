@@ -16,4 +16,5 @@ Email:tunica2013@gmail.com
   
   Disposta a aprender e trabalhar com tecnologia da informação
   
-
+"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+"Não há quem ame a própria dor, que a busque e queira tê-la, simplesmente porque é dor..."
